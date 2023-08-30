@@ -3,7 +3,9 @@ gdown
 Cython
 matplotlib>=3.2.2
 numpy>=1.18.5
-opencv-contrib-python==4.1.2.30
+# opencv-contrib-python==4.1.2.30
+opencv-contrib-python==4.4.0.46
+# opencv-contrib-python
 pillow
 PyYAML>=5.3
 scipy>=1.4.1
@@ -11,4 +13,6 @@ tqdm>=4.41.0
 flask-cors
 gunicorn
 torch==1.8.2+cpu
+# torch
+# torchvision
 torchvision==0.9.2+cpu
